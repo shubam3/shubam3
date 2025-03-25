@@ -1,8 +1,8 @@
 <!-- Level 3: Add custom code -->
 
 # 👋 Hi, I'm Shubam!
-🧑‍💻 Software Engineer sharing about my journey and learnings in tech<br/>
-💻  Studied [Computer Science](https://youtu.be/Dd_4zfmY-aA?si=3NnnJ-j5ls7johlv) at the Virginia Tech, USA<br/>
+💻 Pursuing a degree in Computer Science at the Virginia Tech, USA<br/>
+🧑‍💻 Software Engineer sharing my journey, projects, and lessons in tech<br/>
 🌐 #My Techie life in my [digital life](https://shubamkhantwal.netlify.app/)<br/>
 💭 Currently learning about data analytics and [ML](https://ml-saga.vercel.app/)!<br/>
 
