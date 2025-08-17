@@ -1,7 +1,7 @@
 <!-- Level 3: Add custom code -->
 
 # 👋 Hi, I'm Shubam!
-💻 Pursuing a degree in Computer Science at the Virginia Tech, USA<br/>
+💻 Pursuing a Master's degree in Computer Science at the Virginia Tech, USA<br/>
 🧑‍💻 Software Engineer sharing my journey, projects, and lessons in tech<br/>
 🌐 #My tech journey through my [digital life](https://shubamkhantwal.netlify.app/)<br/>
 💭 Currently learning about data analytics and [ML](https://ml-saga.vercel.app/)!<br/>
